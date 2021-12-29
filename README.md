@@ -1,5 +1,5 @@
 # Class_Roster
-C++ application that creates and manages a class roster
+C++ application that creates and manipulates a class roster
 
 WGU Scripting and Programming Applications - C867
 
