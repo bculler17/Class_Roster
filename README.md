@@ -1,4 +1,4 @@
-# Class_Roster
+# Class Roster
 C++ application that creates and manipulates a class roster
 
 WGU Scripting and Programming Applications - C867
